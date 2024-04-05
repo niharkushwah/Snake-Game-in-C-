@@ -1,5 +1,5 @@
 /*
-NIHAR KUSHWAH
+NIHAR KUSHWAH 
 */
 
 #include <iostream>
